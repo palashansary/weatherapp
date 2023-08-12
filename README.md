@@ -11,8 +11,7 @@ WeatherAppNXT is a user-friendly weather application that provides real-time wea
 ## Features
 
 - **Current Weather:** Instant access to current weather conditions.
-- **Hourly Forecast:** Hourly breakdown of the weather forecast.
-- **5-Day Forecast:** Plan ahead with the 5-day weather forecast.
+
 - **Search:** Easily find weather details for different cities.
 - **Responsive:** Works well on desktop and mobile devices.
 
@@ -22,9 +21,6 @@ WeatherAppNXT is a user-friendly weather application that provides real-time wea
 - Explore current weather, hourly, and 5-day forecasts.
 - Use the search bar to find weather for specific cities.
 
-## Screenshots
-
-![WeatherAppNXT Screenshot](https://weatherappnxt.netlify.app/assets/images/screenshot.png)
 
 ## Contributing
 
