@@ -1,6 +1,6 @@
 # WeatherAppNXT
 
-![WeatherAppNXT Demo](https://weatherappnxt.netlify.app/assets/images/demo.png)
+![WeatherAppNXT Demo](london.png)
 
 Welcome to WeatherAppNXT!
 
