@@ -7,7 +7,7 @@ Welcome to WeatherAppNXT!
 ## Introduction
 
 WeatherAppNXT is a user-friendly weather application that provides real-time weather updates and forecasts for locations worldwide.
-
+# Live Demo
 [Demo](https://weatherappnxt.netlify.app/)
 
 
